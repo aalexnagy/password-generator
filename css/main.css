@@ -1,0 +1,35 @@
+#passOut{
+    overflow: auto;
+    word-wrap: break-word;
+}
+
+#outputDiv {
+    max-width: 70%;
+}
+
+#legendDiv {
+    border-left: 2px solid black;
+    min-height: 50rem;
+}
+
+.vertical-line{
+
+    display: inline-block;
+
+    border-left: 1px solid #ccc;
+
+    margin: 0 10px;
+
+    height: 125px;
+
+}
+
+p {
+    text-align: justify;
+    margin-right: 1rem;
+}
+
+label span {
+    color: gray;
+
+}
