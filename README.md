@@ -1,2 +1,2 @@
 # password-generator
- Simple password generator app
+ Simple JS application for generating passwords.
